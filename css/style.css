@@ -2,9 +2,26 @@ h1{
   font-family: serif;
   font-size: 50px;
   color: blue;
+  text-align: center;
 }
 
 .sidebar{
   width: 30%;
-  color: black;
+  float: right;
+  background-color: gray;
+}
+p{
+  font-size: 20px;
+  font-family: fantasy;
+}
+img{
+  float: left;
+}
+.column{
+  width: 300px;
+  float: left;
+}
+.middle{
+  margin: 0 auto;
+  width: 450px;
 }
